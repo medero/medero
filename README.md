@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Meder
 
-I'm a software engineer who's passionate about working on products that make the world a better place. Technologies I'm versed in and enjoy include ReactJS, Typescript/Javascript, Python, PHP, and Postgresql/MySQL.
+I'm a software engineer who's passionate about working on products that make the world a better place. Technologies I'm versed in and enjoy include ReactJS, Vue, Typescript/Javascript, Python, PHP, and Postgresql/MySQL.
 
 I like to share what I learn and contribute to the community: 
 - My stackoverflow portfolio is in the top <a href="https://stackoverflow.com/users/145190/meder-omuraliev">0.06%</a> as a contributor
