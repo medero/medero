@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 - I'm Meder
+
+I'm a software engineer who's passionate about working on products that make the world a better place. Technologies I'm versed in and enjoy include ReactJS, Typescript/Javascript, Python, PHP, and Postgresql/MySQL. My stackoverflow portfolio is in the top <a href="https://stackoverflow.com/users/145190/meder-omuraliev">0.06</a> as a contributor. An example of wanting to help is my volunteer work for <a href="https://remissionbiome.org/">RemissionBiome</a>, where I developed and maintain the website entailing a project to gather data and validate a potential remission event for Myalgic encephalomyelitis/chronic fatigue syndrome. 
+
+I like to share what I learn and contribute to the community - I was interviewed by Sitepoint in 2010 for my standout contributions to the Sitepoint Web Development forum. I managed a cross-browser bug website/database called workarounds.org to help developers address inconsistencies due to different rendering engines.
+
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on software relating to the advancement of therapies for illnesses/diseases
+- ⚡ Fun fact: I was pranked by Arnold Schwarzenegger
 
 <!--
 **medero/medero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +14,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
