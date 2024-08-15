@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Meder
 
-I'm a software engineer who's passionate about working on products that make the world a better place. Technologies I'm versed in and enjoy working with include React, Vue, Typescript/Javascript, Python, PHP, and Postgresql/MySQL.
+I'm a software engineer who's passionate about working on products that make the world a better place. Technologies I'm versed in and enjoy working with include React, Vue, Typescript/Javascript, Python, PHP, and Postgresql/MySQL including frameworks like next.js, Laravel, Flask, & Django.
 
 I like to share what I learn and contribute to the community: 
 - My stackoverflow portfolio is in the top <a href="https://stackoverflow.com/users/145190/meder-omuraliev">0.06%</a> as a contributor
@@ -10,9 +10,6 @@ I like to share what I learn and contribute to the community:
 Recent work:
 
 - Volunteered to manage/develop a website for <a href="https://remissionbiome.org/">RemissionBiome</a> which is a project to gather data and validate a potential remission event for Myalgic encephalomyelitis/chronic fatigue syndrome.
-- Working on a CO2 Critter project named <a href="https://co2kuki.com/">CO2Kuki</a> to bring awareness of indoor air quality
-
-- 🌱 I’m currently learning about indoor air quality, co2 sensors and also learning Mediapipe (AI/ML library) to track and measure human body movement
-- 👯 I’m looking to collaborate on software relating to the advancement of therapies for illnesses/diseases
+- 🌱 I'm currently learning about indoor air quality and co2sensors while Working on a CO2 Critter project named <a href="https://co2kuki.com/">CO2Kuki</a> to bring awareness of IAQ to mitigate airborne pathogens
+- 🏋️ Learning Mediapipe (AI/ML library) to track and measure human body movement
 - ⚡ Fun fact: I was pranked by Arnold Schwarzenegger
-
