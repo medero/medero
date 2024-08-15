@@ -14,4 +14,4 @@ I like to share what I learn and contribute to the community:
 - I managed a cross-browser bug website/database called workarounds.org to help developers address inconsistencies due to different rendering engines
 
 
-- ⚡ Fun fact: I was pranked by Arnold Schwarzenegger
+⚡ Fun fact: I was pranked by Arnold Schwarzenegger
